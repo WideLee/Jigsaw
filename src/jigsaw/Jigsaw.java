@@ -8,7 +8,7 @@ import java.util.Vector;
 /**
  * 在此类中填充算法，完成重拼图游戏（N-数码问题）
  * 
- * @author abe
+ * @author abc
  * 
  */
 public class Jigsaw {
